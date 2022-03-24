@@ -13,7 +13,6 @@ function Home(){
             const data = pokemon.data;
             setPokemon(data)
         })
-
     }
 
  
